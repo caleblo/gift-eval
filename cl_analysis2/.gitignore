@@ -1,0 +1,7 @@
+# Generated outputs — not tracked in git
+plots/
+models/
+logs/
+lightning_logs/
+__pycache__/
+progress.json
